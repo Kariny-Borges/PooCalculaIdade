@@ -1,0 +1,15 @@
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\bin\Debug\net9.0\pooCalculaIdade.exe
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\bin\Debug\net9.0\pooCalculaIdade.deps.json
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\bin\Debug\net9.0\pooCalculaIdade.runtimeconfig.json
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\bin\Debug\net9.0\pooCalculaIdade.dll
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\bin\Debug\net9.0\pooCalculaIdade.pdb
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\net9.0\pooCalculaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\net9.0\pooCalculaIdade.AssemblyInfoInputs.cache
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\net9.0\pooCalculaIdade.AssemblyInfo.cs
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\net9.0\pooCalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\net9.0\pooCalculaIdade.dll
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\net9.0\refint\pooCalculaIdade.dll
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\net9.0\pooCalculaIdade.pdb
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\net9.0\pooCalculaIdade.genruntimeconfig.cache
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\net9.0\ref\pooCalculaIdade.dll
+C:\Users\karin\source\repos\pooCalculaIdade\pooCalculaIdade\obj\Debug\net9.0\pooCalculaIdade.sourcelink.json
